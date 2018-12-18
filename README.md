@@ -1,0 +1,1 @@
+# satyadara-apps-pwa
